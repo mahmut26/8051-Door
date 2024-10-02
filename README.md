@@ -1,0 +1,1 @@
+This program may not work as intended. It's designed for simple door mechanics: the sensor detects a person, opens the door, then closes it. If someone tries to force it open, a siren relay activates. Additionally, if the door motors overheat, an error is triggered. However, I don't remember when I created this.
